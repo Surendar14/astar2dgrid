@@ -177,7 +177,11 @@ print(a)
 ~~~
 
 ## OUTPUT:
+![168831155-aacdc197-5857-4125-85cd-1376220f237e](https://user-images.githubusercontent.com/75235759/168863023-4457964c-4e09-47df-9be0-049916c34a61.jpg)
 
-Explain the Completeness and complexity of the algorithm:
+##SOLUTION JUSTIFICATION:
+
+A* combines the advantages of Best-first Search and Uniform Cost Search: ensure to find the optimized path while increasing the algorithm efficiency using heuristics.Complexity in A* Search is that the Algorithm doesn’t produce the shortest path always, as it relies heavily on heuristics / approximations to calculate h.
 
 ## RESULT:
+Hence, A* Search Algorithm was implemented for path finding from the source to the destination point in 2D grid world.
